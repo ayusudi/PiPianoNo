@@ -1,2 +1,2 @@
-# https://ayusudi.github.io/PiPianoNo.github.io/
+Pi Piano No
 Mini Piano Final Project Phase 0
